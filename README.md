@@ -84,7 +84,7 @@ No of Outlets = DISTINCTCOUNT('Blinkit'[Outlet Identifier])
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.jpeg)
+![Dashboard](Dashboard.png)
 
 ## Tools Used
 
