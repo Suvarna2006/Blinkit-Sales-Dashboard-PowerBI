@@ -26,6 +26,9 @@ The dataset contains information about:
 - Item Weight
 - Sales
 - Rating
+Here is the dataset:
+
+https://www.kaggle.com/datasets/architgoel29/blinkit-dashboard
 
 ## Data Cleaning
 
