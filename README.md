@@ -73,7 +73,7 @@ No of Outlets = DISTINCTCOUNT('Blinkit'[Outlet Identifier])
 - Average Rating by Item Type
 
 ### Interactive Filters
-
+- Item Type
 - Outlet Type
 - Outlet Size
 - Outlet Location Type
